@@ -33,5 +33,6 @@
   <img src="https://th.bing.com/th/id/R.255b77e251b19a6d0600634d2ff9b006?rik=k3edqLFjWyFC1Q&riu=http%3a%2f%2fpngimg.com%2fuploads%2fmysql%2fmysql_PNG22.png&ehk=ffHItQzD%2fUaKL%2bPOiED3dtDd9YUI%2fJRUzYL5raCZnR8%3d&risl=&pid=ImgRaw&r=0" alt="JavaScript" width="55" height="50"/>&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VS Code" width="40" height="40"/>&nbsp;
   <img src="https://www.liblogo.com/img-logo/ex220m9d7-excel-logo-microsoft-office-365-excel-logo-free-icon-of-logos-microsoft.png"  width="40" height="40"/>&nbsp;
+  <img src="https://cdn2.iconfinder.com/data/icons/mixd/512/3_tableau-1024.png"  width="40" height="40"/>&nbsp;
  
 </div>
