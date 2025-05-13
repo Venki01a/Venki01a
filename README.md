@@ -40,3 +40,22 @@
 
 My Email ID - venkateshgarg11@gmail.com
 ---
+### 🔗 Social info
+
+<div id="badges">
+    <a href="https://www.linkedin.com/in/venkatesh-garg-17b822326/" target="blank">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+    </a>
+     <a href="" target="blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
+    </a>
+    <a href="https://www.geeksforgeeks.org/user/venkatesy2bm/" target="blank">
+    <img src="https://img.shields.io/badge/GeeksforGeeks-gray?style=for-the-badge&logo=geeksforgeeks&logoColor=35914c" alt="GFG"/>
+    </a>
+    <a href="https://leetcode.com/u/ZJH9E1ytDq/" target="blank">
+    <img src="https://w7.pngwing.com/pngs/640/947/png-transparent-leetcode-button-icon.png" alt="kishan1236" height="29" width="120" />
+    </a>
+    
+</div>
+
+---
