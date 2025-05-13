@@ -8,3 +8,12 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?duration=10000&center=true&vCenter=true&width=800&height=30&lines=Hello+this+is+Venkatesh+Welcome+to+my+Github+page.)](https://git.io/typing-svg)
 
 ---
+### 👦 About Me
+- 👨‍💻 I'm a B-Tech DATA SCIENCE(CSE) Third year student.
+
+- 🔭 I’m currently working on **DATA ANALYTICS** & focusing on **MACHINE LEARNING**  
+
+- 🌱 I’m currently developing and learning **POWER BI AND SQL **
+
+- ⚡ Fun fact : **"🚀 Bridging the gap between data and decisions with confidence and clarity 🎨✨"** 
+--- 
