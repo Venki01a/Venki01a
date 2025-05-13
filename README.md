@@ -17,3 +17,10 @@
 
 - ⚡ Fun fact : **"🚀 Bridging the gap between data and decisions with confidence and clarity 🎨✨"** 
 --- 
+### 🔥 My Stats 
+<img width="400"  src="https://github-readme-stats.vercel.app/api?username=Venki01a&show_icons=true&theme=blue-green" /> <img width="415" src="https://streak-stats.demolab.com/?user=Venki01a&theme=blue-green" />
+<img width="830" src="https://github-readme-activity-graph.vercel.app/graph?username=Venki01a&bg_color=21232a&color=a8eeff&line=61dafb&point=f0fcff&area=true&hide_border=false" />
+ <a href=""> <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Venki01a&theme=blue-green&line_height=20&hide=css"/> </a>
+ 
+
+---
