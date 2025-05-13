@@ -34,5 +34,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VS Code" width="40" height="40"/>&nbsp;
   <img src="https://www.liblogo.com/img-logo/ex220m9d7-excel-logo-microsoft-office-365-excel-logo-free-icon-of-logos-microsoft.png"  width="40" height="40"/>&nbsp;
   <img src="https://cdn2.iconfinder.com/data/icons/mixd/512/3_tableau-1024.png"  width="40" height="40"/>&nbsp;
+  <img src="https://specials-images.forbesimg.com/imageserve/5fc09cf1950179a3f5f74874/960x0.jpg?fit=scale"  width="40" height="40"/>&nbsp;
  
 </div>
